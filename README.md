@@ -54,7 +54,7 @@ If you have questions, suggestions, or need support, feel free to reach out to u
 If you find this project useful or if you use any code, ideas, or resources from it, please consider citing the following sources:
 
 ```
-Rabuge, M., & Lourenço, N. (2023). The Fedora Framework (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.10210815
+Rabuge, M., & Lourenço, N. (2023). The Fedora Framework (Version 1.0.1) [Computer software]. https://doi.org/10.5281/zenodo.10210815
 ```
 
 ```bibtex
@@ -65,7 +65,7 @@ Rabuge, M., & Lourenço, N. (2023). The Fedora Framework (Version 1.0.0) [Comput
     month = dec,
     title = {{The Fedora Framework}},
     url = {https://github.com/miguelrabuge/fedora},
-    version = {1.0.0},
+    version = {1.0.1},
     year = {2023}
 }
 ```

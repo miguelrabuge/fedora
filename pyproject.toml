@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "fedora-framework"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Miguel Rabuge", email="rabuge@dei.uc.pt" },
   { name="Nuno Lourenço", email="naml@dei.uc.pt" },
