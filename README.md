@@ -1,5 +1,8 @@
 # The Fedora Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10210815.svg)](https://doi.org/10.5281/zenodo.10210815)
+[![PyPI version](https://badge.fury.io/py/fedora-framework.svg)](https://badge.fury.io/py/fedora-framework)
+
 The Fedora Framework is an evolutionary feature engineering framework designed to streamline the process of creating and optimizing features for machine learning tasks. This project offers a flexible and extensible set of tools for feature engineering to help data scientists and machine learning engineers efficiently prepare their data for modelling.
 
 ## Features
@@ -51,14 +54,14 @@ If you have questions, suggestions, or need support, feel free to reach out to u
 If you find this project useful or if you use any code, ideas, or resources from it, please consider citing the following sources:
 
 ```
-Rabuge, M., & Lourenço, N. (2023). The Fedora Framework (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.1234
+Rabuge, M., & Lourenço, N. (2023). The Fedora Framework (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.10210815
 ```
 
 ```bibtex
 @software{
     Rabuge_The_Fedora_Framework_2023,
     author = {Rabuge, Miguel and Lourenço, Nuno},
-    doi = {10.5281/zenodo.1234},
+    doi = {10.5281/zenodo.10210815},
     month = dec,
     title = {{The Fedora Framework}},
     url = {https://github.com/miguelrabuge/fedora},
