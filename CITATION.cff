@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rabuge"
+  given-names: "Miguel"
+  orcid: https://orcid.org/0009-0008-0914-0495
+- family-names: "Lourenço"
+  given-names: "Nuno"
+  orcid: "https://orcid.org/0000-0002-2154-0642"
+title: "The Fedora Framework"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-12-01
+url: "https://github.com/miguelrabuge/fedora"

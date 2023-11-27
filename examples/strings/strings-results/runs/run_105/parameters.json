@@ -1,0 +1,1 @@
+{"parameters": null, "popsize": 3, "generations": 1, "elitism": 1, "seed": 105, "prob_crossover": 0.9, "prob_mutation": 0.1, "tsize": 3, "grammar": "strings.pybnf", "experiment_name": "./strings-results/runs/", "run": 105, "include_genotype": false, "save_step": 10, "verbose": true, "min_tree_depth": 3, "max_tree_depth": 10}

@@ -1,0 +1,1 @@
+{"parameters": null, "popsize": 2000, "generations": 100, "elitism": 200, "seed": 42, "prob_crossover": 0.9, "prob_mutation": 0.1, "tsize": 3, "grammar": "car-evaluation.pybnf", "experiment_name": "./car-evaluation-results/runs/", "run": 42, "include_genotype": false, "save_step": 200, "verbose": true, "min_tree_depth": 3, "max_tree_depth": 10}

@@ -1,0 +1,5 @@
+# Symbolic Regression
+<start> ::= <expr>
+<expr> ::= <expr><op><expr>|(<expr><op><expr>)|<var>
+<op> ::= +|-|*
+<var> ::= x[0]|1.0

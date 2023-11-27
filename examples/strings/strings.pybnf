@@ -1,0 +1,4 @@
+# strings.pybnf
+<start> ::= <feature>,|<feature>,<feature>|<feature>,<feature>,<feature>
+<feature> ::=  _MyOpt_ \eb x[<var>] | x[<var>] \l\l _cclen_ \g\g x[<var>] 
+<var> ::= 'feature0' | 'feature1'

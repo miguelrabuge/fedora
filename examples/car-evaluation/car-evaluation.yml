@@ -1,0 +1,13 @@
+# car-evaluation.yml
+POPSIZE: 2000                                   # Population Size
+GENERATIONS: 100                                # Generations
+ELITISM: 200                                    # Elistism (10%)
+PROB_CROSSOVER: 0.9                             # Crossover: Probability
+PROB_MUTATION: 0.1                              # Mutation: Probability
+TSIZE: 3                                        # Selection: Tournament Size
+EXPERIMENT_NAME: 'car-evaluation-results/'      # Results folder name
+INCLUDE_GENOTYPE: False                         # Option include the genotype in the logs
+SAVE_STEP: 200                                  # Logging Frequency (every N generations)
+VERBOSE: True                                   # Statistics of each generation when running the algorithm 
+MIN_TREE_DEPTH: 3                               # Genetic Programming Tree Minimum Depth
+MAX_TREE_DEPTH: 10                              # Genetic Programming Tree Maximum Depth
